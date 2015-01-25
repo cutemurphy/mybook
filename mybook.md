@@ -359,6 +359,7 @@ The world won’t care about your self-esteem. The world will expect you to acco
 
 有所得，必有所失，有所失，必有所得。
 
+碰到困难，苦难，想放弃得时候，一定要想想自己得初心。
 
 光明与黑暗并生，人生的美，都由这两者构成。
 
