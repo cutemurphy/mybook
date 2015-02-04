@@ -345,10 +345,12 @@ face the truth。
 提升效率：偷懒是进步的源泉，不要用战略上的努力掩盖战略上的懒惰。
 
 
-## 自尊
+## 自尊 / 尊严
 
 The world won’t care about your self-esteem. The world will expect you to accomplish something BEFORE you feel good about yourself.
 世界不会在意你的自尊，人们看的只是你的成就，在你有成就之前，切勿过分强调自尊。
+
+王小波说过，你在家里，单位，在认识的人面前，你被当成一个人看，你被尊重，但在一个没人认识你的地方，你可能会被当成东西对待。我想在任何地方都被当成人，不是东西，这就是尊严。《看见》
 
 
 ##  纬度 ／ 角度 ／ 视角 / 坐标系
