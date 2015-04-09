@@ -474,6 +474,10 @@ face the truth。
 
 很多人知道自己不喜欢做什么，但并不意味着他们知道自己喜欢做什么。所以当你在排斥你不喜欢做的事情的时候，也要思考你到底喜欢做什么事情。
 
+## 笨功夫
+
+聪明人一定要下笨功夫，不要总寻找捷径。合抱之木,生于毫末;九层之台,起于累土;千里之行,始于足下。
+
 ## 自尊 / 尊严
 
 The world won’t care about your self-esteem. The world will expect you to accomplish something BEFORE you feel good about yourself.
