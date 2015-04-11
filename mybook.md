@@ -884,6 +884,8 @@ idea -->todo －->doing --> done --> 总结done的质量得失
 ## 业余 / 专业 / 效率
 业余最大的问题是不稳定，稳定了就变成专业了。
 
+用专业赢得尊重。talk is cheap , show me the code.
+
 在某领域内1万小时定律。
 
 专业会让你变得更有效率。
