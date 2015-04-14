@@ -8,6 +8,12 @@
 
 是完成任务就好，还是要做到事情应该有的样子？有时候你觉得做得好是某种假象，是不真实的，比如一个餐厅因为地理位置好，生意不错，其实不一定是自己做得好，也许这个餐厅放到其他地理位置，这个餐厅就不行了，所以要做到应该有的样子，而不是别人希望或者工作规定的样子。
 
+Everything I do and everything Pixar does is based on a simple rule: Quality is the best business plan, period.
+— JOHN LASSETER, PIXAR FOUNDER​
+
+John Lasseter said that Steve Jobs taught him to always aim high. With an unprecedented streak of #1 movies, Lasseter and Pixar have certainly aimed high and achieved their mark. Jobs taught Lasseter that “quality is the best business plan.”  Jobs would say that everything Pixar does has to be great again and again and again. Every Pixar story had to be great. Every movie had to be great. Every product with Pixar’s name on it had to be great. If you want to succeed in this increasingly competitive global economy, every single thing you do has to be great. Is it?​
+[出处](http://www.forbes.com/sites/carminegallo/2012/06/20/steve-jobs-to-pixar-chief-just-make-it-great/)
+
 关注经济增长的数量，还要关注经济增长的质量，要数量，也要品质。
 
 尽力做到最好。这个结果最终是否达到并无所谓，但这个过程会让你发现很多惊喜，因为你在到达最好的过程当中，必定会碰到许多难题和麻烦，当你都能克服了这些痛苦，从中收获了知识和成长的时候，你会觉得很欣喜，很享受，这就是做到最好给你带来的惊喜，远远超出了最好这个结果本身。
