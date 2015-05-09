@@ -829,6 +829,29 @@ idea -->todo －->doing --> done --> 总结done的质量得失
 
 相反的过程，其实不对等。你可以长头发变成短头发，但是你短头发要变成长头发就难了。
 
+## need 和 want
+
+[来自知乎](http://www.zhihu.com/question/19574413)
+
+我觉得keso的答案没解释清楚，我们再探讨一下。
+
+这个问题所提到的Want和Need，其实Philip Kotler在他的《市场营销学》中讲到过。
+
+Products are the means to an end wherein the end is the satisfaction of customer needs or wants.
+
+Kotler distinguished three components:
+need: a lack of a basic requirement;
+want: a specific requirement for products or services to match a need;
+demand: a set of wants plus the desire and ability to pay for the exchange.
+
+记得有之前开老师发过一个微博，很多工程师和产品经理不了解：顾客要买的其实不是某个产品，而是他们需要运用一个产品来完成某件任务或解决某个问题。有句著名的话：“顾客不是要买钻头，顾客要买的是洞。”这里洞是need，钻头是我们假想的用户的want。
+
+比如汽车的例子，用户的need是移动速度更快，不一定是汽车。能满足这个need的东西很多，有时候用户的want是可以改变的。汽车出现之前，用户只是want“一匹更快的马”。后来汽车出现，更好地满足了这个need，所以用户开始want一辆汽车，并不是need一辆汽车。如果有比汽车更好的工具能满足这个need，用户可能会want那个新的工具
+
+电话出现之前，用户的need是远距离即时通讯。后来的电话，email，手机，IM等等都是满足这个need的产品或服务，可以成为用户的want。用户的need其实不是电话或者手机，他们只是想更好地跟朋友沟通。
+
+所以need是人基本的需求，需要被发现，而want是满足need，可以被创造和改变。
+
 ## 做自己 / 认可 / 你自己
 
 当努力不再成为向别人证明自己的一种方式，努力本身便更接近于内在喜欢的本质，这样努力便有了最好的驱动力，结果不再是唯一重要，过程的乐趣也更加容易感受。有时竞争会让我们忘记所做事情本身的乐趣，也许你把老天给你的天份发挥到极致就ok了，结果应该不差。[ted演讲，你可以进步](当努力不再成为向别人证明自己的一种方式，努力本身便更接近于内在喜欢的本质，这样努力便有了最好的驱动力，结果不再是唯一重要，过程的乐趣也更加容易感受。有时竞争会让我们忘记所做事情本身的乐趣，也许你把老天给你的天份发挥到极致就ok了，结果应该不差。)
